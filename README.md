@@ -1,5 +1,5 @@
 # Install-Security-Cameras-at-Traffic-Intersections 
-The project is a part of the course ECE650 offered at the University of Waterloo. The project was conducted in a group of 2 which includes me and Mr [Nick De Marchi](https://www.linkedin.com/in/nickdemarchi/).
+The project is a part of the course ECE650 offered at the University of Waterloo. The project was conducted in a group of 2 which includes Mr [Nick De Marchi](https://www.linkedin.com/in/nickdemarchi/) and Mr [Gaurav Prasad](https://www.linkedin.com/in/gaurav-prasad-53a68a14a/)(Me).
 
 ## Abstract -
 The purpose of the project is to help the Police Department install security cameras at traffic intersections. The police department needs to minimize the number of cameras they need to install and cover all streets effectively. While working on this project we found that this project is based on finding a minimum vertex cover along with some approximation algorithm. To help the police we have implemented the minimum vertex cover and two approx algorithms based on vertex cover. The minimum vertex cover is a polynomial time reduction of a CNF-SAT problem that we are naming as CNF-SAT-VC algorithm and the other two approx algorithms are named as APPROX-VC-1 and APPROX-VC-2.
